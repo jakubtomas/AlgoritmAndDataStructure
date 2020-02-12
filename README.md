@@ -1,2 +1,0 @@
-# AlgoritmAndDataStructure
-Created with CodeSandbox
