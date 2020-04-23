@@ -5,6 +5,11 @@
 // example knihy poukladane na sebe
 // naboje v zasobniku
 
+// funkcie
+//pridať prvok (na vrch),
+//odobrať prvok (z vrchu),
+//pozrieť sa na vrchný prvok.
+
 // functions: push, pop, peek, length
 
 var letters = []; // this is our stack
