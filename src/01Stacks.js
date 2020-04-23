@@ -2,6 +2,9 @@
 
 // zasobnik
 
+// example knihy poukladane na sebe
+// naboje v zasobniku
+
 // functions: push, pop, peek, length
 
 var letters = []; // this is our stack
